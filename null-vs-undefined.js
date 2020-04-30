@@ -15,5 +15,5 @@
 // const details = {name:"mr tom", phone:"420420"};
 // console.log(details.bou);
 
-let fun = undefined;
-console.log(fun);
+// let fun = undefined;
+// console.log(fun);
